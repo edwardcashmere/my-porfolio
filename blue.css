@@ -1,0 +1,12 @@
+:root {
+    --mainText: #fff;
+    --secondaryText: #eeeeee;
+    --mainColour: #15202B;
+    --borderColour: #164D56;
+    --secondaryColour: #192734;
+    --themeDotBorder:#fff;
+    --previewBg:rgb(25,39,52,0.8);
+    --previewShadow:#111921;
+    --submitBtn:#17a2b8
+  }
+  
